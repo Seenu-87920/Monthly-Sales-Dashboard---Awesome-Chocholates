@@ -6,7 +6,7 @@ This project is an interactive Monthly Sales Dashboard developed using Microsoft
 
 The dashboard was created by applying Excel concepts such as Pivot Tables, Pivot Charts, KPI calculations, Data Cleaning, Data Visualization, and Interactive Slicers.
 
----
+--
 
 ## Objectives
 
